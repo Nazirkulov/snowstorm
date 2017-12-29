@@ -1,0 +1,19 @@
+{
+  "name": "snowstorm",
+  "main": "snowstorm.js",
+  "version": "1.0",
+  "homepage": "https://github.com/Nazirkulov/snowstorm",
+  "description": "A lightweight JavaScript library for creating snowstorm.",
+  "keywords": [
+    "snowstorm",
+    "snowstorm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
